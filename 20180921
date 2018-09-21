@@ -1,0 +1,8 @@
+http://www.runoob.com/linux/linux-comm-cat.html
+
+cat
+cat 命令用於連接檔並列印到標準輸出設備上。
+使用權限
+所有使用者
+語法格式
+cat [-AbeEnstTuv] [--help] [--version] fileName
